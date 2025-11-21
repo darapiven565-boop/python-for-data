@@ -21,4 +21,4 @@
 - Графік популярних жанрів.
 ## Популярність жанрів
 
-![Genres Frequency](data\Figure_1.png)
+![Genres Frequency](Figure_1.png)
